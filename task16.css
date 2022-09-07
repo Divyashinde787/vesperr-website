@@ -1,0 +1,296 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.logo a {
+    color: #222222;
+    font-size: 35px;
+}
+.N1 a {
+    color: rgb(82, 82, 82);
+    margin-right: 15px;
+}
+.container {
+    /* border: 2px solid black; */
+    margin-top: 60px;
+}
+.col h1 {
+    margin: 50px 10px 10px 10px;
+    font-size: 48px;
+    color: black;
+}
+.col h3 {
+    margin: 10px;
+    font-size: 30px;
+    color: rgb(72, 71, 71);
+}
+
+.c1 img {
+    height: 500px;
+    width: 600px;
+}
+
+.c2 img {
+    height: 50px;
+    width: 70px;
+    filter: grayscale(100);
+}
+
+.c2 img:hover{
+    filter: none;
+}
+
+.c3 h1 {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+.c4 {
+    margin: 20px;
+    color: rgb(72, 71, 71);
+    font-size: 18px;
+
+}
+
+.c4 ul {
+    padding: 16px;
+
+}
+
+.c5 img {
+    height: 250px;
+    width: 400px;
+    padding-right: 50px;
+}
+
+.col-sm p {
+    color: rgb(72, 71, 71);
+
+}
+
+.c3 h5 {
+    text-align: center;
+    color: rgb(72, 71, 71);
+    margin-bottom: 50px;
+}
+
+.card {
+    margin-bottom: 50px;
+    border: 0px;
+}
+
+.b1{
+    float: right;
+    border-radius: 10px;
+
+}
+.b1:hover {
+    background-color: rgb(25, 158, 247);
+    transform: 20s; 
+  }
+
+.c6 {
+    height: 400px;
+    width: 600px;
+
+    /* border: 2px solid black; */
+    border-radius: 15px;
+    background-image: url("Capture4.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 12px;
+}
+
+.c7 {
+    height: 400px;
+    width: 600px;
+    border-radius: 15px;
+    background-image: url("Capture3.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 12px;
+
+}
+
+.c8 {
+    height: 400px;
+    width: 600px;
+
+    border-radius: 15px;
+    background-image: url("Capture2.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 12px;
+}
+
+.c9 {
+    height: 400px;
+    width: 600px;
+
+    border-radius: 15px;
+    background-image: url("Capture1.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 12px;
+}
+
+
+.c6-1 {
+
+    margin: 160px 20px 20px 20px;
+    padding: 20px;
+    height: 200px;
+    width: 460px;
+    background-color: rgba(248, 243, 243, 0.794);
+    border-radius: 14px;
+}
+.c6-1:hover {
+    background-color: rgb(233, 114, 203);
+    transform: 20s; 
+  }
+
+.c10{
+    height: 50px;
+    width: 24px;
+    /* border: 2px solid black; */
+    margin: 8px;
+    padding: 10px;
+    background-color: rgb(240, 240, 230);
+
+}
+
+.c11 {
+    height: 250px;
+    width: 70px;
+    padding-top:30px ;
+    /* border: 2px solid black; */
+}
+.c11-1{
+    height: 80px;
+    width: 80px;
+    border-radius: 15px;
+    margin-top: 50px;
+   
+    float: left;
+   
+}
+
+.c11-1 img{
+    height: 80px;
+    width: 80px;
+    border-radius: 15px;
+}
+.c11-2{
+    height: 200px;
+    width: 450px;
+    /* border: 2px solid black; */
+    margin-left: 40px;
+    border-radius: 15px;
+   padding: 20px 10px 0px 50px;
+   background-color: white;
+  
+}
+.c1{
+    float: left;
+}
+.d1 img{
+    height: 280px;
+    width: 300px;
+    margin: 18px;
+   
+    
+}
+.r12{
+    height: 280px;
+    background-image: url("team-1.jpg");
+   
+    background-size: cover;
+
+}
+.r13{
+    height: 280px;
+    background-image: url("team-2.jpg");
+   
+    background-size: cover;
+
+}
+.r14{
+    height: 280px;
+    background-image: url("team-3.jpg");
+    background-size: cover;
+
+}
+.r15{
+    height: 280px;
+    background-image: url("team-4.jpg");
+    background-size: cover;
+
+}
+.r12-1{
+    height: 55px;
+    margin-left: 0px;
+    width: 255px;
+    /* border: 2px solid black; */
+    margin-top: 225px;
+    background-color: rgba(226, 224, 224, 0.5);
+
+}
+.r12-1:hover{
+    background-color: white;
+}
+
+.r12-a{
+    margin: 3px;
+    font-size: 28px;
+}
+.ctc{
+    height: 420px;
+    width: 280px;
+   margin-left: 32px;
+     background-color: rgb(240, 240, 230);
+
+}
+
+.c12{
+    height: 440px;
+    width: 350px;
+    padding: 30px;
+}
+.c13{
+    height: 440px;
+    width: 270px;
+    padding: 30px;
+}
+
+.c13-1{
+    font-size: 25px;
+    padding: 10px;
+
+}
+.c14{
+    height: 440px;
+    width: 350px;
+}
+
+.r12-b{
+    font-size: 22px;
+    padding:6px 12px 6px 12px;
+    margin: 6px;
+    border-radius: 20px;
+    border: 0px;
+}
+form{
+    padding-top: 30px;
+}
+input{
+    width:480px;
+    padding: 8px;
+    margin: 10px 0px;
+}
+
+footer{
+    height: 140px;
+    padding: 40px;
+}
